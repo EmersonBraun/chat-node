@@ -1,7 +1,6 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var consign = require('consign');
-const {check, validationResult} = require('express-validator');
 
 var app = express();
 
