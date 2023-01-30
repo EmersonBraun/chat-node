@@ -1,6 +1,9 @@
 # Chat Node.js
 
-A Quasar Framework app
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Node.js' src='https://img.shields.io/badge/Node-100000?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='ejs' src='https://img.shields.io/badge/EJS-100000?style=for-the-badge&logo=ejs&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='socket.io' src='https://img.shields.io/badge/Websocket-100000?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=black&color=black'/></a>
+
 
 ## Main features
 ### Enter chat
