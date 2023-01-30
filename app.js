@@ -1,7 +1,8 @@
 var app = require('./config/server');
 
-var server = app.listen(5000, function(){
-    console.log('Server up');
+const port = 5000;
+var server = app.listen(port, function(){
+    console.log(`Server running on http://localhost:${port} `);
 });
 
 var io = require('socket.io').listen(server)
